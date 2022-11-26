@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"ex16.2/publicpkg/"
+	"ch16/ex16.2/publicpkg"
 )
 
 func main() {
